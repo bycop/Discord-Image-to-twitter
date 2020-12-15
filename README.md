@@ -26,3 +26,8 @@ const channeltweet = ""; //Channel ID
 ```javascript
 status: user.username + " posted",
 ```
+
+## Others Bots
+
+Discord-global-chat : https://github.com/bycop/Discord-global-chat <br>
+Discord-Fivem-Playerlist : https://github.com/bycop/Discord-Fivem-Playerlist
