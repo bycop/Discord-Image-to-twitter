@@ -30,5 +30,5 @@ status: user.username + " posted",
 ## Others Bots
 
 Discord-global-chat : https://github.com/bycop/Discord-global-chat <br>
-Discord-Fivem-Playerlist : https://github.com/bycop/Discord-Fivem-Playerlist <br>
+Discord-Fivem-Serverstats : https://github.com/bycop/Discord-Fivem-Serverstats <br>
 Discord-Serverlist-InviteLinkByID : https://github.com/bycop/Discord-Serverlist-InviteLinkByID
